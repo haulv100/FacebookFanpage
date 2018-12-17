@@ -36,9 +36,9 @@
 </div>
 ```
 
-* * page_id: thay id của fanpage vào
-* * theme_color: đổi màu cho chatbox
-* * logged_in_greeting, logged_out_greeting: Lời chào đầu tiên
+* page_id: thay id của fanpage vào
+* theme_color: đổi màu cho chatbox
+* logged_in_greeting, logged_out_greeting: Lời chào đầu tiên
 
 Sau khi add thì liên hệ chủ fanpage, yêu cầu họ vào phần fanpage settings -> Messengers Platform -> White-listed domains -> Add các domains mà bạn cho phép hiển thị. Ví dụ: teahouse.com, mamconcept.com
 # Done
